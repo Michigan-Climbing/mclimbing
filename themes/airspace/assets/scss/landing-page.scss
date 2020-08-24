@@ -3,8 +3,8 @@ serif;
 $secondary-font: 'Poppins',
 serif;
 $light: #fff;
-$primary-color:#655E7A;
-$secondary-color:#2E7EED;
+$primary-color:#00274C;
+$secondary-color:#FFCB05;
 
 body {
 	font-family: $primary-font;
@@ -83,7 +83,7 @@ a {
 
 			>li {
 				>a {
-					color: #5C5C5C;
+					color: #00274C;
 					padding: 10px 15px;
 
 					font : {
@@ -110,7 +110,7 @@ a {
 
 			a {
 				font-weight: normal;
-				color: #808080;
+				color: #00274C;
 				padding: 10px 20px;
 				@include transition (all, 0.3s, ease);
 

@@ -1,0 +1,6 @@
+################################## Officers #####################################
+officers:
+  enable : true
+  image : "images/company/about.jpg"
+  title : "Meet your Officers"
+  content : "Max Hammer, Margo Dominic, Roberts Kalnins..."

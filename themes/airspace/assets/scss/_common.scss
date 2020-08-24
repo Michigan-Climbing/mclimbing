@@ -63,7 +63,7 @@ input[type="tel"] {
 // Button Style
 
 .btn-main {
-  background: $primary-color;
+  background: $secondary-color;
   color: $light;
   display: inline-block;
   font-size: 14px;
@@ -82,7 +82,7 @@ input[type="tel"] {
   }
 
   &:hover {
-    background: darken($primary-color, 20%);
+    background: darken($secondary-color, 20%);
     color: $light;
   }
 }
