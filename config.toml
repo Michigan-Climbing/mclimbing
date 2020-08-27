@@ -80,7 +80,7 @@ preloader = "" # use .png , .svg or .gif format
 ############################# social site ########################
 [[params.social]]
 icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://www.instagram.com/michiganclimbingteam/"
 
 
 ################################ English Language ########################

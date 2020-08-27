@@ -8,7 +8,7 @@ banner:
   button:
     enable : true
     label : "Join Our Mailing List"
-    link : "https://www.google.com" # link to a form
+    link : "news/post-3-new-members"
   
   button2:
     enable : true
