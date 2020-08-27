@@ -1,6 +1,6 @@
 ---
 title: "Team News"
-description: "Team News"
+description: ""
 draft: false
 bg_image: "images/slider-bg.jpg"
 ---
