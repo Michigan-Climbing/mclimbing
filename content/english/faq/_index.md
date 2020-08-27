@@ -6,20 +6,22 @@ draft: false
 bg_image: "images/slider-bg.jp2"
 ---
 
-#### 1. q
+#### 1. Does the team have tryouts?
 
-answer
+Nope! We have no tryouts or cuts, the team is open to climbers at any skill level as long as they are motivated to train and compete.
 
-#### 2. q
+#### 2. What is the time commitment of the team?
 
-answer
+See our <a href = "/news/post-2-covid-response/"> COVID-19 response </a> for this season’s info. We have practices on Tuesday and Thursday evenings from 7-10pm at Planet Rock, and often have additional training sessions on Sundays. All practices are optional, and workouts are regularly posted for students who are unable to attend in person. The only requirement is that athletes attend at least one competition throughout the season.
 
-#### 3. q
+#### 3. How expensive is it to be on Team?
 
-answer
+Team membership dues of $70 pay for jerseys and organizational expenses. Throughout the season, team members will also need to purchase a USA Climbing membership for $65, register for  local and regional USAC championships which are $25 and $65, respectively, and independently purchase a membership to Planet Rock for practices.
 
-#### 4. q
+#### 4. How do competitions work?
 
-answer
+Throughout the season, we travel to several competitions hosted throughout Michigan and neighboring states. The competitions are all redpoint format meaning that students may attempt and re-try all climbs as many times as they like within the time period to accumulate as many points as they can. Students can compete in any number of disciplines.
 
-#### 5. q
+#### 5. How will the current COVID-19 pandemic influence the team?
+
+In short, we will be hosting additional remote exercises, outdoor training sessions, opportunities for socially distanced activities, and hopefully be able to climb at Planet Rock once it opens. USA Climbing has also announced plans for an augmented competitive season that would allow students to compete this fall. For more details, read our <a href = "/news/post-2-covid-response/"> COVID-19 response </a>.
