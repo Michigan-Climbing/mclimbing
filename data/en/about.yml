@@ -1,9 +1,18 @@
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
-  title : "..."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
+  image1 : "images/the-team-1.jp2"
+  subtitle1 : "1..."
+  content1 : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
+          iure officiis facere vitae itaque.
+          
+          
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
+          velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
+          dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  image2 : "images/the-team-2.jp2"
+  subtitle2 : "2..."
+  content2 : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
           iure officiis facere vitae itaque.
           
           
