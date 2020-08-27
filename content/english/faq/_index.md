@@ -16,7 +16,7 @@ See our <a href = "/news/post-2-covid-response/"> COVID-19 response </a> for thi
 
 #### 3. How expensive is it to be on Team?
 
-Team membership dues of $70 pay for jerseys and organizational expenses. Throughout the season, team members will also need to purchase a USA Climbing membership for $65, register for  local and regional USAC championships which are $25 and $65, respectively, and independently purchase a membership to Planet Rock for practices.
+Team membership dues of $70 pay for jerseys and organizational expenses. Throughout the season, team members will also need to purchase a USA Climbing membership for $65, register for  local and regional USAC championships which are $25 and $65, respectively, and independently purchase a membership to Planet Rock for practices. We provide needs based financial support opportunities to help make sure that these expenses are not prohibitive for students.
 
 #### 4. How do competitions work?
 
