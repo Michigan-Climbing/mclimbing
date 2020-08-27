@@ -1,6 +1,27 @@
-################################## Officers #####################################
+################################ Officers ################################
 officers:
   enable : true
-  image : "images/company/about.jpg"
-  title : "Meet your Officers"
-  content : "Max Hammer, Margo Dominic, Roberts Kalnins..."
+  data_table:
+
+    - name : "Max Hammer"
+      year: "Senior"
+      content : "About yourself. Some kind of description probably best kept pretty short. We can put an image in here as well"
+      facts:
+        - Optional data format
+        - Can add something if you want
+
+    - name : "Margo Dominic"
+      year: "Senior"
+      content : "About yourself. Some kind of description probably best kept pretty short. We can put an image in here as well"
+      facts:
+        - Optional data format
+        - Can add something if you want
+
+    - name : "Roberts Kalnins"
+      year: "Senior"
+      content : "About yourself. Some kind of description probably best kept pretty short. We can put an image in here as well"
+      facts:
+        - Optional data format
+        - Can add something if you want
+        
+        

@@ -1,9 +1,9 @@
 /*=================================================================
-  Pricing section
+  officer section
 ==================================================================*/
 
-.pricing-table {
-  .pricing-item {
+.officer-table {
+  .officer-item {
     padding: 40px 20px;
     background: $light;
     box-shadow: 0 8px 15px 0 rgba(5, 57, 106, .06);
@@ -25,7 +25,7 @@
     }
   }
 
-  .price-title {
+  .officer-title {
     padding: 30px 0 20px;
 
     >h3 {
