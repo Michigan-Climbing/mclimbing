@@ -3,7 +3,7 @@ title: "Frequently Asked Questions"
 description: ""
 subtitle : "Contact us at mclimbing@umich.edu if you have any questions not covered here."
 draft: false
-bg_image: "images/slider-bg.jpg"
+bg_image: "images/slider-bg.jp2"
 ---
 
 #### 1. q

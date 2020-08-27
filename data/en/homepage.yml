@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg.jpg"
+  bg_image : "images/slider-bg.jp2"
   bg_overlay : true
   title : "University of Michigan <br/> Climbing Team"
   content : "Competitve Indoor Climbing at U of M"
@@ -21,7 +21,7 @@ about:
   title : "About Us"
   description : ""
   content : "The Michigan Climbing Team welcomes anyone of any skill levels, and we don’t hold tryouts. We do a lot of fundraising to make climbing as inclusive and financially accessible as possible. Our goal is to create a community of supportive, motivated, and passionate students looking to work hard and improve."
-  image : "images/team-1.jpg"
+  image : "images/team-1.jp2"
 
 ######################### Meet the Team ###############################
 portfolio:
