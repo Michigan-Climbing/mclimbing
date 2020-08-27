@@ -56,7 +56,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo-svg.svg"
 # Meta data
 description = "This is meta description"
 author = "Roberts Kalnins"
