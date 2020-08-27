@@ -7,7 +7,7 @@ banner:
   content : "Competitve Indoor Climbing at U of M"
   button:
     enable : true
-    label : "Join Us"
+    label : "Join Our Mailing List"
     link : "https://www.google.com" # link to a form
 
 ############################# About #################################
@@ -18,3 +18,18 @@ about:
   content : "The Michigan Climbing Team welcomes anyone of any skill levels, and we don’t hold tryouts. We do a lot of fundraising to make climbing as inclusive and financially accessible as possible. Our goal is to create a community of supportive, motivated, and passionate students looking to work hard and improve."
   image : "images/team-1.jpg"
 
+######################### Meet the Team ###############################
+portfolio:
+  enable : true
+  bg_image : ""
+  title : "Meet the Team"
+  content : "Check out our Meet the Team video on the RecSports YouTube channel to meet Margo and Roberts, two of our officers this year. Click on the link below to open the video in YouTube."
+
+  button:
+    enable : true
+    label : "Meet the Team"
+    link : "https://www.youtube.com"
+
+  video:
+    enable : true
+    link : "https://www.youtube.com/embed/h_ah3PpW0Fc"
