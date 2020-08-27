@@ -25,3 +25,7 @@ Throughout the season, we travel to several competitions hosted throughout Michi
 #### 5. How will the current COVID-19 pandemic influence the team?
 
 In short, we will be hosting additional remote exercises, outdoor training sessions, opportunities for socially distanced activities, and hopefully be able to climb at Planet Rock once it opens. USA Climbing has also announced plans for an augmented competitive season that would allow students to compete this fall. For more details, read our <a href = "/news/post-2-covid-response/"> COVID-19 response </a>.
+
+#### 6. What is the difference between the Michigan Climbing Team and the Michigan Climbing Club?
+
+The Michigan Climbing Team and Climbing Club are two separate organizations, although many team members are also members of the club. The Climbing Club handles outdoor climbing trips as well as non-competitive climbing activities and social events. The Climbing Team hosts regular practices and training opportunities, formally represents the University of Michigan athletically, and competes through USA Climbing.
