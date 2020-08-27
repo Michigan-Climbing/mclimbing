@@ -11,4 +11,4 @@ draft: false
 type: "post"
 ---
 
-To be written.
+TBA. Website is a work in progress.
