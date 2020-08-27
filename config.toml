@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "/"
-title = "University of Michigan Climbing Club"
+title = "University of Michigan Climbing Team"
 theme = "airspace"
 # post pagination
 paginate = "4"
