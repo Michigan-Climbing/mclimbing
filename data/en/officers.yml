@@ -4,24 +4,20 @@ officers:
   data_table:
 
     - name : "Max Hammer"
-      year: "Senior"
-      content : "About yourself. Some kind of description probably best kept pretty short. We can put an image in here as well"
+      content : "I’m a senior studying Molecular, Cellular, and Developmental Biology alongside Philosophy. After college I hope to work as a physician-scientist treating pediatric disease and studying developmental biology to inform clinical care. I’ve been a climber here in Ann Arbor for over 10 years training with the Planet Rock Team and traveling with the USA Climbing team for international competitions. You can also find me slacklining and playing frisbee in the diag or out snowboarding when it's too cold to climb."
       facts:
-        - Optional data format
-        - Can add something if you want
+        - "Fun Fact:<br>I have an extra tendon in my wrists, but unfortunately it doesn't help me climb"
+        - "<b>Favorite Climbing Area:</b><br>Deep water soloing in Mallorca, Spain"
 
     - name : "Margo Dominic"
-      year: "Senior"
-      content : "About yourself. Some kind of description probably best kept pretty short. We can put an image in here as well"
+      content : ""
       facts:
-        - Optional data format
-        - Can add something if you want
+        - <b>Fun Fact:</b><br>
+        - <b>Favorite Climbing Area:</b><br>
 
     - name : "Roberts Kalnins"
-      year: "Senior"
-      content : "About yourself. Some kind of description probably best kept pretty short. We can put an image in here as well"
+      image : "images/roberts.jpeg"
+      content : "I'm a sophomore studying Computer Engineering. My current interests are in surgical robotics, distributed systems, and IOT; if you're interested in anything engineering or need help, I'd love to talk. I started climbing midway through high school and I'm stoked to be climbing with all of you on the team. When I can't climb, I'm skiing, hiking, kayaking and canoeing."
       facts:
-        - Optional data format
-        - Can add something if you want
-        
-        
+        - "<b>Fun Fact:</b><br>"
+        - "<b>Favorite Climbing Area:</b><br>Anything anywhere in big mountains. Preferably cold. Fan of Type II Fun."
