@@ -11,10 +11,16 @@ draft: false
 type: "post"
 ---
 
+## Festifall
+
 The Michigan Climbing Team will be at the virtual Festifall September 4 (Day 2, Maize Session) from 2:00pm to 6:00pm EST. See <a href="https://campusinvolvement.umich.edu/fests/student-orgs">campusinvolvement.umich.edu/fests/student-orgs</a> for more information on how to participate in virtual Festifall.
+
+Check out our <a href="https://www.instagram.com/michiganclimbingteam/">Instagram</a>.
+
+## Mailing List
 
 <a href="https://www.google.com">Join Our Mailing list</a> to start receiving information on practices and more.
 
-Send us an email at <a href="mailto:mclimbing@umich.edu">mclimbing@umich.edu</a> if you have any other questions.
+## Additional Questions?
 
-Check out our <a href="https://www.instagram.com/michiganclimbingteam/">Instagram</a>.
+Send us an email at <a href="mailto:mclimbing@umich.edu">mclimbing@umich.edu</a> if you have any other questions.

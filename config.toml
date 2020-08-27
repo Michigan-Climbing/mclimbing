@@ -160,3 +160,13 @@ weight = 5
 name = "Contact"
 URL = "contact"
 weight = 6
+
+[[Languages.en.menu.footer]]
+name = "USA Climbing"
+URL = "http://www.usaclimbing.org"
+weight = 7
+
+[[Languages.en.menu.footer]]
+name = "UMich Recreational Sports"
+URL = "https://recsports.umich.edu"
+weight = 8
