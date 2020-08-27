@@ -9,6 +9,11 @@ banner:
     enable : true
     label : "Join Our Mailing List"
     link : "https://www.google.com" # link to a form
+  
+  button2:
+    enable : true
+    label : COVID-19 Response
+    link : news/post-2-covid-response
 
 ############################# About #################################
 about:

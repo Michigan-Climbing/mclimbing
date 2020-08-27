@@ -87,6 +87,32 @@ input[type="tel"] {
   }
 }
 
+.btn-warn {
+  background: rgb(255,0,0);
+  color: $light;
+  display: inline-block;
+  font-size: 14px;
+  letter-spacing: 1px;
+  padding: 14px 35px;
+  text-transform: uppercase;
+  border-radius: 0;
+  margin-left: 20px;
+  @include transition (all, 0.2s, ease);
+
+  &.btn-icon {
+    i {
+      font-size: 16px;
+      vertical-align: middle;
+      margin-right: 5px;
+    }
+  }
+
+  &:hover {
+    background: darken(rgb(255,0,0), 20%);
+    color: $light;
+  }
+}
+
 
 .btn-solid-border {
   border: 1px solid $light;
