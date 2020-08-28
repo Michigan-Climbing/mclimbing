@@ -16,7 +16,7 @@ See our <a href = "/news/post-2-covid-response/"> COVID-19 response </a> for thi
 
 #### 3. How expensive is it to be on Team?
 
-Team membership dues of $70 pay for jerseys and organizational expenses. Throughout the season, team members will also need to purchase a USA Climbing membership for $65, register for  local and regional USAC championships which are $25 and $65, respectively, and independently purchase a membership to Planet Rock for practices. We provide needs based financial support opportunities to help make sure that these expenses are not prohibitive for students.
+Team membership dues of $70 pay for jerseys and organizational expenses. Throughout the season, team members will also need to purchase a USA Climbing membership for $65, register for  local and regional USAC championships which are $25 and $65, respectively, and independently purchase a membership to Planet Rock for practices. We provide needs-based financial support opportunities to help make sure that these expenses are not prohibitive for students.
 
 #### 4. How do competitions work?
 
@@ -24,7 +24,7 @@ Throughout the season, we travel to several competitions hosted throughout Michi
 
 #### 5. How will the current COVID-19 pandemic influence the team?
 
-In short, we will be hosting additional remote exercises, outdoor training sessions, opportunities for socially distanced activities, and hopefully be able to climb at Planet Rock once it opens. USA Climbing has also announced plans for an augmented competitive season that would allow students to compete this fall. For more details, read our <a href = "/news/post-2-covid-response/"> COVID-19 response </a>.
+In short, we will be hosting additional remote exercises, outdoor training sessions, opportunities for socially distanced activities, and hopefully be able to climb at Planet Rock once it opens. USA Climbing has also announced plans for an augmented competitive season that would allow students to compete this fall. For more details, read our <a href = "/news/post-2-covid-response/"> COVID-19 response</a>.
 
 #### 6. What is the difference between the Michigan Climbing Team and the Michigan Climbing Club?
 
