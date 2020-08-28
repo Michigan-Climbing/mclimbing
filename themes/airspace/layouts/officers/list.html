@@ -31,6 +31,17 @@
   </div>
 </section>
 {{ end }}
-{{ end }}
 
+{{ with $data.officers.officers }}
+<div class="container">
+<h2>Former Officers</h2>
+{{ range .former_officers }}
+  <h3>{{ .year }}</h3>
+  <p>{{ .people }}</p>
+
+{{ end }}
+{{ end }}
+</div>
+
+{{ end }}
 {{ end }}

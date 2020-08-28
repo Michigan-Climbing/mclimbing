@@ -22,3 +22,7 @@ officers:
       facts:
         - "<b>Fun Fact:</b><br>I'm Latvian. Latvia is unfortunately a very, very flat country."
         - "<b>Favorite Climbing Area:</b><br>Anything anywhere in big mountains. Preferably cold. Fan of Type II Fun."
+
+  former_officers:
+    - year : 2019-2020
+      people : Gabe Linderman, Max Hammer
