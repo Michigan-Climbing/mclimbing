@@ -26,9 +26,11 @@
               </li>
             </ul>
 					</div>
+					{{ if .Params.Image }}
 					<div class="post-thumb">
 						<img class="img-responsive" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
 					</div>
+					{{ end }}
 					<div class="post-content post-excerpt">
 						{{ .Content }}
 					</div>

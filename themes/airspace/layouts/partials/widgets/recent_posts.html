@@ -2,9 +2,15 @@
     <h4 class="widget-title">{{ i18n "latest_posts" }}</h4>
     {{ range first 4 (where site.Pages "Type" "post") }}
     <div class="media">
+    {{ if .Params.Image }}
       <a class="pull-left" href="{{ .Permalink }}">
         <img class="media-object" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
       </a>
+      {{ else }}
+      <a class="pull-left" href="{{ .Permalink }}">
+        <img class="media-object" src="{{ site.Params.logo | absURL | relURL }}" alt="{{ .Title }}">
+      </a>
+      {{ end }}
       <div class="media-body">
         <h4 class="media-heading"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
         <p>{{ .Summary | truncate 50 }}</p>

@@ -9,11 +9,13 @@
         {{ $paginator := .Paginate .Data.Pages }}
         {{ range $paginator.Pages }}
         <div class="post">
+		{{ if .Params.Image }}
           <div class="post-media post-thumb">
             <a href="{{ .Permalink }}">
               <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
             </a>
           </div>
+		{{ end }}
           <h3 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
           <div class="post-meta">
             <ul>
