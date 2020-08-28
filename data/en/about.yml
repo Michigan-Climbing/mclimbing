@@ -2,8 +2,14 @@
 about:
   enable : true
   image1 : "images/the-team-1.jpg"
-  subtitle1 : ""
-  content1 : "Coming soon!"
+  subtitle1 : "What We Do"
+  content1 : "We hold practices at Planet Rock, doing workouts on and off the wall. We compete through USAC in local, regional, and national competitions. The Michigan Climbing team is a club sport sponsored by the Department of Recreational Sports at the University of Michigan."
   image2 : "images/the-team-2.jpg"
-  subtitle2 : ""
-  content2 : "Coming soon!"
+  subtitle2 : "Our Mission"
+  content2 : "The University of Michigan Climbing Team is committed to:
+<ol><li>Fostering the development of a nationally competitive climbing team by supporting new and experienced athletes alike.</li>
+<li>Supporting the growth of climbing as a sport by maintaining an environment of dedication, teamwork, encouragement, and inclusivity</li></ol>
+"
+  image3: "images/max-about.jpg"
+  subtitle3: "Membership"
+  content3: "Any student who intends on competing in USA Climbing sanctioned competitions in the coming school year, commits to climbing and training at least once a week during the competition season, is enrolled at the University of Michigan, has paid the team dues ($70 per year), and has proof of health insurance."

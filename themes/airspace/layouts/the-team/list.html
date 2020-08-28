@@ -36,6 +36,20 @@
         </div>
       </div>
     </div>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="about-img">
+          <img class="img-responsive" src="{{ .image3 | relURL }}">
+        </div>
+      </div>
+      <div class="col-md-6">
+          <div class="block">
+          <h1>{{ .subtitle3 }}</h1>
+        </div>
+        <h2 class="mt-40">{{ .title | markdownify }}</h2>
+        {{ .content3 | markdownify }}
+      </div>
+    </div>
   </div>
 </section>
 {{ end }}
