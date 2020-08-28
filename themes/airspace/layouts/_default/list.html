@@ -22,11 +22,11 @@
               <li><i class="ion-calendar"></i> {{ .PublishDate.Format "January 2, 2006" }}</li>
               <li><i class="ion-android-people"></i>
                 {{ i18n "posted_by" }}
-                {{if site.Params.multi_author}}
-                {{ range $index, $elements:= .Params.Author }}{{ if ne $index 0 }}, {{ end }}<a class="text-primary" href="{{ `author/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
-                {{else}}
-                <a class="text-primary" href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author }}</a>
-                {{end}}
+				{{ if .Params.is_eb }}
+                <a class="text-primary" href="{{ "/officers/" | absURL }}">{{ .Params.Author }}</a>
+				{{ else }}
+				{{ .Params.Author }}
+				{{ end }}
               </li>
               <li><i class="ion-pricetags"></i> 
                 {{ range $index, $elements:= .Params.Tags }}
