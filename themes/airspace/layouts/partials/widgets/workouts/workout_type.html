@@ -1,0 +1,12 @@
+<div class="widget widget-tag">
+    <h4 class="widget-title">Workout types</h4>
+    {{- if isset site.Taxonomies "tagsw" }}
+    {{- if not (eq (len site.Taxonomies.tagsw) 0) }}
+    <ul class="widget-tag-list">
+      {{- range $name, $items := site.Taxonomies.tagsw }}
+      <li><a href="{{ `tagsw/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | humanize }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+    {{- end }}
+  </div>
