@@ -7,7 +7,7 @@ image : "images/website.jpg"
 bg_image: "images/slider-bg.jpg"
 categories: ["News"]
 tags: ["Technology"]
-description: "Welcome the the new Michigan Climbing Team Website!"
+description: "Welcome the new Michigan Climbing Team Website!"
 draft: false
 type: "post"
 ---

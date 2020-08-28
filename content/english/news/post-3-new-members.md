@@ -6,7 +6,7 @@ is_eb: true
 bg_image: "images/slider-bg.jpg"
 categories: ["News", "Info"]
 tags: ["Festifall", "New-members"]
-description: "Learn more about us at Festifall 2020 and joining the team. he Michigan Climbing Team will be at the virtual Festifall September 4 (Day 2, Maize Session) from 2:00pm to 6:00pm EST. See campusinvolvement.umich.edu/fests/student-orgs for more information on how to participate in virtual Festifall."
+description: "Learn more about us at Festifall 2020 and joining the team. The Michigan Climbing Team will be at the virtual Festifall September 4 (Day 2, Maize Session) from 2:00pm to 6:00pm EST. See campusinvolvement.umich.edu/fests/student-orgs for more information on how to participate in virtual Festifall."
 draft: false
 type: "post"
 ---
