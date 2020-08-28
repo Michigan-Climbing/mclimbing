@@ -58,7 +58,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [params]
 logo = "images/logo-svg.svg"
 # Meta data
-description = "This is meta description"
+description = "Competitive Indoor Climbing at U of M"
 author = "Roberts Kalnins"
 # Contact Information
 mobile = ""
