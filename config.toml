@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "/"
+baseURL = "https://www.mclimbing.org"
 title = "University of Michigan Climbing Team"
 theme = "airspace"
 # post pagination

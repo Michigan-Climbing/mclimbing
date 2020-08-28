@@ -19,7 +19,11 @@ Check out our <a href="https://www.instagram.com/michiganclimbingteam/">Instagra
 
 ## Mailing List
 
-<a href="https://www.google.com">Join Our Mailing list</a> to start receiving information on practices and more.
+Join our mailing list to start receiving important information about practices and more.
+
+Not seeing the form below? <a href="https://docs.google.com/forms/d/e/1FAIpQLSfcgzVN6-6JRWVT1IsKWI3bdjcniUGb3-uK3ujQx4ii97Hm1w/viewform?usp=sf_link">Click here to open the form</a> 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcgzVN6-6JRWVT1IsKWI3bdjcniUGb3-uK3ujQx4ii97Hm1w/viewform?embedded=true" width="640" height="421" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Additional Questions?
 
