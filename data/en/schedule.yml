@@ -1,7 +1,6 @@
 ################################## Schedule #####################################
 schedule:
   enable : true
-  image : "images/company/about.jpg"
+  image : ""
   title : "Results and Schedules"
-  content : "2020-2021: TBD<br>
-             2019-2020: ..."
+  content : ""

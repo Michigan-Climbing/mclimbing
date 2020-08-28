@@ -5,19 +5,20 @@ officers:
 
     - name : "Max Hammer"
       content : "I’m a senior studying Molecular, Cellular, and Developmental Biology alongside Philosophy. After college I hope to work as a physician-scientist treating pediatric disease and studying developmental biology to inform clinical care. I’ve been a climber here in Ann Arbor for over 10 years training with the Planet Rock Team and traveling with the USA Climbing team for international competitions. You can also find me slacklining and playing frisbee in the diag or out snowboarding when it's too cold to climb."
-      image : "images/max.jp2"
+      image : "images/max.jpg"
       facts:
         - "<b>Fun Fact:</b><br>I have an extra tendon in my wrists, but unfortunately it doesn't help me climb"
         - "<b>Favorite Climbing Area:</b><br>Deep water soloing in Mallorca, Spain"
 
     - name : "Margo Dominic"
-      content : ""
+      image: "images/margo.jpg"
+      content : "I’m a junior studying biopsychology, cognition, and neuroscience with a minor in environment. My goal is to get a masters in rec therapy or wilderness therapy. I’ve been climbing on and off since I was a kid, and finally got serious about it when I started college. I also work at Planet Rock! When I’m not climbing or working, I train for marathons, hike, swim, and work on bikes with my housemates. I also am a big fan of naps and snacks."
       facts:
-        - <b>Fun Fact:</b><br>
-        - <b>Favorite Climbing Area:</b><br>
+        - "<b>Fun Fact:</b><br>I broke my ankle three days before my first climbing comp and ended up competing in a boot so I could still go to regionals."
+        - "<b>Favorite Climbing Area:</b><br>Bishop!"
 
     - name : "Roberts Kalnins"
-      image : "images/roberts.jp2"
+      image : "images/roberts.jpg"
       content : "I'm a sophomore studying Computer Engineering. My current interests are in surgical robotics, distributed systems, and IOT; if you're interested in anything engineering or need help, I'd love to talk. I started climbing midway through high school and I'm stoked to be climbing with all of you on the team. When I can't climb, I'm skiing, hiking, kayaking, or canoeing."
       facts:
         - "<b>Fun Fact:</b><br>I'm Latvian. Latvia is unfortunately a very, very flat country."

@@ -3,7 +3,7 @@ title: "Festifall and New Member information"
 date: 2020-08-27T11:07:10+06:00
 author: Executive Board
 is_eb: true
-bg_image: "images/slider-bg.jp2"
+bg_image: "images/slider-bg.jpg"
 categories: ["News", "Info"]
 tags: ["Festifall", "New-members"]
 description: "Learn more about us at Festifall 2020 and joining the team. he Michigan Climbing Team will be at the virtual Festifall September 4 (Day 2, Maize Session) from 2:00pm to 6:00pm EST. See campusinvolvement.umich.edu/fests/student-orgs for more information on how to participate in virtual Festifall."

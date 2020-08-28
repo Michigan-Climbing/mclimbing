@@ -1,7 +1,7 @@
 ################################## About #####################################
 about:
   enable : true
-  image1 : "images/the-team-1.jp2"
+  image1 : "images/the-team-1.jpg"
   subtitle1 : "1..."
   content1 : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
           iure officiis facere vitae itaque.
