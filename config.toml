@@ -52,6 +52,12 @@ link = "plugins/google-map/gmap.js"
 
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+workouts = ["learn", "recent_workouts", "workout_type"]
+
+[taxonomies]
+  category = "categories"
+  tagsw = "tagsw"
+  tag = "tags"
 
 
 #################### default parameters ################################
@@ -128,6 +134,11 @@ hasChildren = true
   URL = "history"
   parent = "About"
   weight = 3
+
+[[Languages.en.menu.main]]
+name = "Schedule"
+URL = "schedule"
+weight = 5
   
 [[Languages.en.menu.main]]
 name = "FAQ"
@@ -135,14 +146,14 @@ URL = "faq"
 weight = 6
 
 [[Languages.en.menu.main]]
-name = "Schedule"
-URL = "schedule"
-weight = 5
+name = "Workouts"
+URL = "workouts"
+weight = 7
 
 [[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 7
+weight = 8
 
 
 # footer menu
