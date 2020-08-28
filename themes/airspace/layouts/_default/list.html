@@ -36,7 +36,7 @@
             </ul>
           </div>
           <div class="post-content">
-            <p>{{ .Summary }}</p>
+            <p>{{ .Description | truncate 300 }}</p>
             <a href="{{ .Permalink }}" class="btn btn-main">{{ i18n "read_more" }}</a>
           </div>
         </div>

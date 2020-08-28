@@ -5,7 +5,7 @@ author: Executive Board
 bg_image: "images/slider-bg.jp2"
 categories: ["News"]
 tags: ["COVID-19"]
-description: "Learn more about what we're doing to keep our athletes safe."
+description: "Learn more about what we're doing to keep our athletes safe. We are following all State of Michigan, University of Michigan, University of Michigan Recreational Sports, and USA Climbing regulations and guidelines when planning our return to training and competing."
 draft: false
 type: "post"
 ---
