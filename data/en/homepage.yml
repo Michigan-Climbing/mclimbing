@@ -7,7 +7,7 @@ banner:
   content : "Competitive Indoor Climbing at U of M"
   button:
     enable : true
-    label : "Join Our Mailing List"
+    label : "Join"
     link : "news/post-3-new-members"
   
   button2:
