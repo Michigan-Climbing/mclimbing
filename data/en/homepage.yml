@@ -32,9 +32,11 @@ portfolio:
 
   button:
     enable : true
-    label : "Coming Soon"
-    link : "#"
+    label : "Watch on YoutTube"
+    link : "https://youtu.be/RH8hp6N8_HE"
 
   video:
     enable : true
-    link : "https://www.youtube.com/embed/h_ah3PpW0Fc"
+    link : "https://www.youtube.com/embed/RH8hp6N8_HE"
+
+    
