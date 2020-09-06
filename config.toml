@@ -62,7 +62,7 @@ description = "Competitive Indoor Climbing at U of M"
 author = "Roberts Kalnins"
 # Contact Information
 mobile = ""
-email = "mclimbing@umich.edu"
+email = "mclimbingleaders@umich.edu"
 location = ""
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io

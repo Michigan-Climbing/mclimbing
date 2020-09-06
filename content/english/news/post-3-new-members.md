@@ -29,4 +29,4 @@ Not seeing the form below? <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc
 
 ## Additional Questions?
 
-Send us an email at <a href="mailto:mclimbing@umich.edu">mclimbing@umich.edu</a> if you have any other questions.
+Send us an email at <a href="mailto:mclimbingleaders@umich.edu">mclimbingleaders@umich.edu</a> if you have any other questions.
