@@ -17,11 +17,11 @@ type: "post"
 
 We are following all State of Michigan, University of Michigan, University of Michigan Recreational Sports, and USA Climbing regulations and guidelines when planning our return to training and competing.
 
-We have lots of ideas and details will be published soon.
+We're currently running virtual practices while we wait to safely restart in-person exercise. Sign up on <a href=https://mcommunity.umich.edu/#group:Michigan%20Climbing%20Team>MCommunity</a> to start receiving team emails with links to our Zoom practices.
 
 ### Not on campus this semester?
 
-We're working on workout plans that will be accessible to everyone, regardless of your location. Please contact us if you're concerned about getting involved when off campus.
+We've got workout plans that will be accessible to everyone, regardless of your location posted on this website. Join us at virtual team practices Tuesday and Thursdays. Please contact us if you're concerned about getting involved when off campus.
 
 ### University of Michigan Recreational Sports COVID-19 Response
 
