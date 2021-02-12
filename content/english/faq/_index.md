@@ -20,11 +20,13 @@ Team membership dues of $70 pay for jerseys and organizational expenses. Through
 
 #### 4. How do competitions work?
 
-Throughout the season, we travel to several competitions hosted throughout Michigan and neighboring states. The competitions are all redpoint format meaning that students may attempt and re-try all climbs as many times as they like within the time period to accumulate as many points as they can. Students can compete in any number of disciplines.
+Currently, USAC has parterned with gyms to keep competitions open for two-week periods during which climbers can climb and record their progress using the KAYA app.
+
+Before the pandemic, we would travel to several competitions hosted throughout Michigan and neighboring states. The competitions are all redpoint format meaning that students may attempt and re-try all climbs as many times as they like within the time period to accumulate as many points as they can. Students can compete in any number of disciplines.
 
 #### 5. How will the current COVID-19 pandemic influence the team?
 
-In short, we will be hosting additional remote exercises, outdoor training sessions, opportunities for socially distanced activities, and hopefully be able to climb at Planet Rock once it opens. USA Climbing has also announced plans for an augmented competitive season that would allow students to compete this fall. For more details, read our <a href = "/news/post-2-covid-response/"> COVID-19 response</a>.
+In short, we are hosting virtual/remote training sessions. Once the weather improves, we hope to have opportunities for socially distanced activities, and hopefully be able to climb at Planet Rock once it opens. USA Climbing has also announced plans for an augmented competitive season that would allow students to compete this fall. For more details, read our <a href = "/news/post-2-covid-response/"> COVID-19 response</a>.
 
 #### 6. What is the difference between the Michigan Climbing Team and the Michigan Climbing Club?
 

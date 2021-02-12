@@ -71,7 +71,7 @@ input[type="tel"] {
 
 .btn-main {
   background: $secondary-color;
-  color: $light;
+  color: rgb(0,0,0);
   display: inline-block;
   font-size: 14px;
   letter-spacing: 1px;
@@ -96,7 +96,7 @@ input[type="tel"] {
 
 .btn-warn {
   background: rgb(255,0,0);
-  color: $light;
+  color: rgb(0,0,0);
   display: inline-block;
   font-size: 14px;
   letter-spacing: 1px;
@@ -316,7 +316,7 @@ input[type="tel"] {
 
     h1 {
       color: $light;
-      font-weight: 200;
+      font-weight: 400;
       letter-spacing: 6px;
       margin-top: 0;
       text-transform: capitalize;
