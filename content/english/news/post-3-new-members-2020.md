@@ -1,5 +1,5 @@
 ---
-title: "Festifall and New Member information"
+title: "2020 Festifall and New Member Information"
 date: 2020-08-27T11:07:10+06:00
 author: Executive Board
 is_eb: true
