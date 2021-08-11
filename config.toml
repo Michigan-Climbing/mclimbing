@@ -52,11 +52,9 @@ link = "plugins/google-map/gmap.js"
 
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
-workouts = ["learn", "recent_workouts", "workout_type"]
 
 [taxonomies]
   category = "categories"
-  tagsw = "tagsw"
   tag = "tags"
 
 
@@ -144,11 +142,6 @@ weight = 5
 name = "FAQ"
 URL = "faq"
 weight = 6
-
-[[Languages.en.menu.main]]
-name = "Workouts"
-URL = "workouts"
-weight = 7
 
 [[Languages.en.menu.main]]
 name = "Contact"

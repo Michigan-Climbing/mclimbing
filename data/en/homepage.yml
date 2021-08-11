@@ -9,11 +9,6 @@ banner:
     enable : true
     label : "Join"
     link : "news/post-3-new-members"
-  
-  button2:
-    enable : true
-    label : COVID-19 Response
-    link : news/post-2-covid-response
 
 ############################# About #################################
 about:
@@ -23,20 +18,5 @@ about:
   content : "The Michigan Climbing Team welcomes anyone of any skill level, and we don’t hold tryouts. We do a lot of fundraising to make climbing as inclusive and financially accessible as possible. Our goal is to create a community of supportive, motivated, and passionate students looking to work hard and improve."
   image : "images/team-1.jpg"
 
-######################### Meet the Team ###############################
-portfolio:
-  enable : true
-  bg_image : ""
-  title : "Meet the Team"
-  content : "Check out our Meet the Team video on the RecSports YouTube channel to meet Margo and Roberts, two of our officers this year. Click on the link below to open the video in YouTube."
-
-  button:
-    enable : true
-    label : "Watch on YoutTube"
-    link : "https://youtu.be/RH8hp6N8_HE"
-
-  video:
-    enable : true
-    link : "https://www.youtube.com/embed/RH8hp6N8_HE"
 
     
