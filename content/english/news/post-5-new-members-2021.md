@@ -13,7 +13,10 @@ type: "post"
 
 ## Festifall
 
-TBA
+Central Campus, table J22 Thursday, September 2 5:00-8:00pm!
+
+We will also be at the Rec Sports Expo Friday, September 3 at Palmer Field from 3:00-6:00pm.
+
 
 Check out our <a href="https://www.instagram.com/michiganclimbingteam/">Instagram</a>.
 
