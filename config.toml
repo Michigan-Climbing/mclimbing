@@ -75,6 +75,8 @@ google_analitycs_id = "" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
 
+recsports = "images/rec-sports.jpeg"
+
 # Preloader
 [params.preloader]
 enable = true
