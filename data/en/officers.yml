@@ -3,28 +3,30 @@ officers:
   enable : true
   data_table:
 
-    - name : "Katya Kornievskaia"
-      content : "I'm a senior studying biochemistry. After I graduate I hope to continue to pharmacy school to work in drug development and production. I have been climbing since high school and Planet Rock has been my home gym for over 7 years. I've also been in a few local competitions and I'm super psyched to travel and compete with the team! When I'm not climbing, I also enjoy skiing, longboarding, and backpacking. "
-      image : "images/katya.jpg"
+    - name : "Jake Schraga"
+      content : "I am a junior studying Art & Design. I am planning to go into Art or Creative Direction. I have been climbing since high school on my gym team in the Bay Area, CA. I love to climb outdoors, but I am a gym kid at here. I love skiing, art, skateboarding, concerts, and surfing."
+      image : "images/jake.jpg"
       facts:
-        - "<b>Fun Fact:</b><br>I'm Russian and St. Petersburg is one of my favorite cities to visit (plus it has some cool climbing gyms) "
-        - "<b>Favorite Climbing Area:</b><br>The Red River Gorge"
+        - "<b>Fun Fact:</b><br>I am related to Edgar Allen Poe"
+        - "<b>Favorite Climbing Area:</b><br>The competitions anywhere"
 
-    - name : "Amelia Espinosa"
-      image: "images/amelia.jpg"
-      content : "I’m a junior studying Neuroscience. I’m planning to go into sleep or addiction research, and I love talking about BrAiN tHinGs. I was raised by a trad-dad, but I really started getting into climbing my junior year of high school. The pandemic put a big hole in my climbing plans, and like many climbers, when I stopped being able to climb in the gym or at state/national parks, I resorted to climbing more unusual rock-formations, including the stone wall behind my hometown library dumpster (ew). In addition to climbing, I’m also big into surfing, open-water swimming, playing video games, and watching anime. "
+    - name : "Owen Sims"  
+      image: "images/owen.jpg"
+      content : ""
       facts:
-        - "<b>Fun Fact:</b><br>At some points in the year, I have been known to consume about 21 eggs per week."
-        - "<b>Favorite Climbing Area:</b><br>Yosemite or Pinnacles"
+        - "<b>Fun Fact:</b><br>"
+        - "<b>Favorite Climbing Area:</b><br>"
 
-    - name : "Roberts Kalnins"
-      image : "images/roberts.jpg"
-      content : "I'm a junior studying Computer Engineering. My current interests are in robotics, real-time/control systems; if you're interested in anything engineering or need help, I'd love to talk. I started climbing midway through high school and I'm stoked to be climbing with all of you on the team. When I can't climb, I'm skiing, hiking, kayaking, or canoeing."
+    - name : "Hunter Barr"
+      image : "images/hunter.jpg"
+      content : ""
       facts:
-        - "<b>Fun Fact:</b><br>I'm Latvian but Latvia's about the flattest country ever"
-        - "<b>Favorite Climbing Area:</b><br>Anything anywhere in big mountains. Preferably cold. Fan of Type II Fun."
+        - "<b>Fun Fact:</b><br>"
+        - "<b>Favorite Climbing Area:</b><br>"
 
   former_officers:
+    - year : 2021-2022
+      people: Katya Kornievskaia, Amelia Espinosa, Roberts Kalnins
     - year : 2020-2021
       people: Max Hammer, Margo Dominic, Roberts Kalnins
     - year : 2019-2020
